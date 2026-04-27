@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+其实地上本没有路 走的人多了 也便成了路
+
 <!--
 **schwahue/schwahue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
